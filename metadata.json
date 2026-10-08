@@ -1,0 +1,7 @@
+{
+  "name": "QuizGen - AI Quiz Generator",
+  "description": "Convert study material, notes, and topics into ready-to-use practice quizzes in seconds with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
